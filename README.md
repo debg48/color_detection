@@ -3,4 +3,5 @@
 
 Here are a few demo images of the project :
 
-<img src="images/1.png"/>
+<img src="images/1.png"/><br>
+<img src="images/2.png"/>
