@@ -21,3 +21,8 @@
 
 <img src="images/1.png"/><br>
 <img src="images/2.png"/>
+
+
+## Drawbacks and Limitations (Future Works) :
+
+This project fails to detect white and black objects
